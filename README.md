@@ -5,8 +5,6 @@ This is a practice project where i recreated my own version of the Netflix landi
 - Most of the buttons do not redirect anywhere. However the website is responsive. The website will scale accordingly when viewed on a table or phone.
 - JS is used for switching between the three infomation tabs.
 
-### View Website on the link below
-
-https://aaron1999x.github.io/recreateNetflix/#
+### [View Website](https://aaron1999x.github.io/recreateNetflix/#)
 
 ##### Credits to _TraversyMedia_ for this awesome practice tutorial
